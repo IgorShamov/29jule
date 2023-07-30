@@ -5,4 +5,4 @@ print(x)
 
 print(True and False)
 
-that's the conflict
+the appearance of a conflict
