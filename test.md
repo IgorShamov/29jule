@@ -6,4 +6,4 @@ Some python functions
 
 new python code
 
-i am old senior and i want more millions
+i am old senior from vetka2
